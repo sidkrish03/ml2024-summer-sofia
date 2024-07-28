@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'find_number=ML2024-SUMMER-SOFIA.main:main',
+            'find-number=ml2024-summer-sofia.main:main',
         ],
     },
     author='Siddharth Santhanakrishnan',
